@@ -1,0 +1,32 @@
+running egg_info
+creating build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info
+writing build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/PKG-INFO
+writing dependency_links to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/dependency_links.txt
+writing entry points to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/entry_points.txt
+writing requirements to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/requires.txt
+writing top-level names to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/top_level.txt
+writing manifest file 'build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/SOURCES.txt'
+reading manifest file 'build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/SOURCES.txt'
+writing manifest file 'build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build/lib
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build/lib/julia_turtlebot_circle_test
+copying julia_turtlebot_circle_test/__init__.py -> /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build/lib/julia_turtlebot_circle_test
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test
+copying /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build/lib/julia_turtlebot_circle_test/__init__.py -> /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test
+byte-compiling /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/share/ament_index
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/share/ament_index/resource_index
+creating /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/share/ament_index/resource_index/packages
+copying resource/julia_turtlebot_circle_test -> /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/share/julia_turtlebot_circle_test
+running install_egg_info
+Copying build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info to /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test-0.0.0-py3.10.egg-info
+running install_scripts
+Installing launch_julia_turtlebot script to /home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/julia_turtlebot_circle_test
+writing list of installed files to '/home/ubuntu/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/install.log'

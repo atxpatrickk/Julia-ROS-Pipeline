@@ -1,0 +1,25 @@
+[0.428s] Invoking command in '/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test': PYTHONPATH=/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/julia_turtlebot_circle_test build --build-base /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build install --record /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/install.log --single-version-externally-managed install_data
+[0.590s] running egg_info
+[0.590s] writing build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/PKG-INFO
+[0.590s] writing dependency_links to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/dependency_links.txt
+[0.591s] writing entry points to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/entry_points.txt
+[0.591s] writing requirements to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/requires.txt
+[0.591s] writing top-level names to build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/top_level.txt
+[0.592s] reading manifest file 'build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/SOURCES.txt'
+[0.593s] writing manifest file 'build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info/SOURCES.txt'
+[0.593s] running build
+[0.593s] running build_py
+[0.594s] copying julia_turtlebot_circle_test/launch_julia_turtlebot.py -> /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build/lib/julia_turtlebot_circle_test
+[0.594s] running install
+[0.594s] running install_lib
+[0.594s] copying /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build/lib/julia_turtlebot_circle_test/launch_julia_turtlebot.py -> /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test
+[0.595s] byte-compiling /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test/launch_julia_turtlebot.py to launch_julia_turtlebot.cpython-310.pyc
+[0.595s] running install_data
+[0.595s] copying package.xml -> /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/share/julia_turtlebot_circle_test
+[0.595s] running install_egg_info
+[0.596s] removing '/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test-0.0.0-py3.10.egg-info' (and everything under it)
+[0.597s] Copying build/julia_turtlebot_circle_test/julia_turtlebot_circle_test.egg-info to /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages/julia_turtlebot_circle_test-0.0.0-py3.10.egg-info
+[0.597s] running install_scripts
+[0.611s] Installing launch_julia_turtlebot script to /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/julia_turtlebot_circle_test
+[0.612s] writing list of installed files to '/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/install.log'
+[0.626s] Invoked command in '/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test' returned '0': PYTHONPATH=/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/install/julia_turtlebot_circle_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/julia_turtlebot_circle_test build --build-base /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/build install --record /home/atxpatrickk/ros2_ws/src/julia_turtlebot_circle_test/build/julia_turtlebot_circle_test/install.log --single-version-externally-managed install_data

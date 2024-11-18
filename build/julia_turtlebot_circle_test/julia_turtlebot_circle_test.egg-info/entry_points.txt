@@ -1,0 +1,3 @@
+[console_scripts]
+launch_julia_turtlebot = julia_turtlebot_circle_test.launch_julia_turtlebot:main
+

@@ -1,0 +1,18 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/ubuntu/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/ubuntu/ros2_ws/install/autonomous_tb3/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ubuntu/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/ubuntu/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/ubuntu/ros2_ws/install/autonomous_tb3/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "julia.executablePath": "/home/ubuntu/.juliaup/bin/julia"
+}
