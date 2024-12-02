@@ -85,4 +85,4 @@ Future Efforts
 
 The already built `launch_julia_turtlebot.py` script only runs a basic/elementary julia script
 and reads simple (for proof of concept) data back. The v2, `launch_julia_turtlebot_v2.py`, is intended to work with
-vicon data and run more complex julia scripts. This script, however, is a work in progress and will likely require the utilization of one of the two ros packages provided within the vicon lab. 
+vicon data and run more complex julia scripts. This script, however, is a work in progress and will likely require the utilization of one of the two ros packages provided within the vicon lab's documentation. 
