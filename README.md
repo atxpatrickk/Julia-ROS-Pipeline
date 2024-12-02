@@ -1,7 +1,7 @@
 Assumptions
 ===========
 
-1. ros2 installed on your machine
+1. ros2 installed on your machine. If using ros1, you must utilize the ros1 to ros2 bridge package that ros has developed. However, as time goes on, ros2 will become increasingly relevant. 
 2. `.bashrc` with relevant bits:
 
 ```
@@ -38,7 +38,7 @@ Building
 Running
 =======
 
-1. Ensure that turtlebot is brought up. Run the following on the turtlebot:
+1. Ensure that turtlebot (assuming this is the bot being used. If not, use the bringup commands for the respective robot) is brought up. Run the following on the turtlebot:
 
 ```
 $ ros2 launch turtlebot3_bringup robot.launch.py
@@ -83,6 +83,6 @@ $ ros2 run julia_turtlebot_circle_test launch_julia_turtlebot
 Future Efforts
 ==============
 
-The existing `launch_julia_turtlebot.py` script only runs a basic julia script
-and reads data back. The v2, `launch_julia_turtlebot_v2.py`, will work with
-vicon data and run more complex julia scripts.
+The already built `launch_julia_turtlebot.py` script only runs a basic/elementary julia script
+and reads simple (for proof of concept) data back. The v2, `launch_julia_turtlebot_v2.py`, is intended to work with
+vicon data and run more complex julia scripts. This script, however, is a work in progress and will likely require the utilization of one of the two ros packages provided within the vicon lab. 
